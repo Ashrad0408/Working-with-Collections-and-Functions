@@ -39,7 +39,7 @@ print("2a. Modified tuple after removing an item:", modified_tuple)
 # 3. Tuple Unpacking
 
 # Create a tuple with values to unpack
-person_info = ("Lavenda", 21, "Kenya")
+person_info = ("John", 21, "Sydney")
 
 # Unpack tuple values into individual variables
 name, age, country = person_info
